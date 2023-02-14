@@ -1,0 +1,26 @@
+{
+  "name": "mase4ka/otus-composer",
+  "type": "library",
+  "description": "Генератор пароля",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Mase4ka\\OtusComposer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Maria Kvaskova",
+      "email": "mase4ka87@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mbstring": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Mase4ka/otus-composer"
+    }
+  ]
+}
