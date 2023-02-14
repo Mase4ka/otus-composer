@@ -16,11 +16,5 @@
   ],
   "require": {
     "ext-mbstring": "*"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Mase4ka/otus-composer"
-    }
-  ]
+  }
 }
