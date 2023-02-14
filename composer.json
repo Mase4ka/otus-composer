@@ -1,11 +1,11 @@
 {
-  "name": "mase4ka/otus-composer",
+  "name": "mariakvaskova/otus-composer",
   "type": "library",
   "description": "Генератор пароля",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Mase4ka\\OtusComposer\\": "src/"
+      "MariaKvaskova\\OtusComposer\\": "src/"
     }
   },
   "authors": [

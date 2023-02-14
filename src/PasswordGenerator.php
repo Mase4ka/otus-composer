@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mase4ka\OtusComposer;
+namespace MariaKvaskova\OtusComposer;
 
 
 class PasswordGenerator
