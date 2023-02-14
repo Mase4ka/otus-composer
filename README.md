@@ -9,13 +9,13 @@
 ## Установка
 
 ```bash
-$ composer require mase4ka/otus-composer
+$ composer require mariakvaskova/otus-composer
 ```
 
 ## Использование
 
 ```php
 <?php
-$generator = new \Mase4ka\OtusComposer\PasswordGenerator();
+$generator = new \MariaKvaskova\OtusComposer\PasswordGenerator();
 echo $generator->create(15); // de%8i6zn9nJ_C%R
 ```
